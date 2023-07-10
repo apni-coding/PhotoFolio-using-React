@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/PhotoFolio-using-React/static/css/main.91cbbda6.css",
+    "main.js": "/PhotoFolio-using-React/static/js/main.e87d58fe.js",
+    "index.html": "/PhotoFolio-using-React/index.html",
+    "main.91cbbda6.css.map": "/PhotoFolio-using-React/static/css/main.91cbbda6.css.map",
+    "main.e87d58fe.js.map": "/PhotoFolio-using-React/static/js/main.e87d58fe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91cbbda6.css",
+    "static/js/main.e87d58fe.js"
+  ]
+}
