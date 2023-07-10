@@ -39,7 +39,7 @@ export default function Albumslist() {
   // Create a new album in the Firestore database
   const handleAlbumCreate = async (name) => {
     try {
-      const docRef = await addDoc(collection(db, 'albums'), {
+     await addDoc(collection(db, 'albums'), {
         name: name,
       });
       setAlbumName(name);
